@@ -12,10 +12,10 @@ automatically.
 
 The following Sieve email filters are provided by this project:
 
-| Filter                                                        | Description                                                                                 |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [Feedback requests](./filters/feedback-requests/filter.sieve) | Filters out emails which request feedback: "rate your trip," "tell us what you think," etc. |
-| [Terms of Service](./filters/terms-of-service/filter.sieve)   | Filters out emails about terms of service updates, privacy policy changes, and the like.    |
+| Filter                                                                      | Description                                                                                 |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Feedback requests](./filters/feedback-requests/filter.sieve)               | Filters out emails which request feedback: "rate your trip," "tell us what you think," etc. |
+| [Terms of Service updates](./filters/terms-of-service-updates/filter.sieve) | Filters out emails about terms of service updates, privacy policy changes, and the like.    |
 
 ## False positives and false negatives
 
