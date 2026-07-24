@@ -1,7 +1,8 @@
 ## Installation
 
-Your email client must support Sieve filters. Consult your email client's
-documentation for instructions on installing them.
+Your email client must support
+[Sieve](https://proton.me/support/sieve-advanced-custom-filters) filters.
+Consult your email client's documentation for instructions on installing them.
 
 Because these filters move emails into an email folder named _Filtered out_, you
 may need to create an email folder named _Filtered out_ before the filters will
