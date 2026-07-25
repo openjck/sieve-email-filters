@@ -1,3 +1,6 @@
+This project contains Sieve-based email filters which filter out useless and
+annoying emails that are not technically spam.
+
 ## Installation
 
 Your email client must support
@@ -27,3 +30,11 @@ _something changed_ will still get through from time to time. Even still, the
 filters will be improved over time. Just keep an eye on the _Filtered out_ email
 folder, especially if you're waiting for an important email or having trouble
 finding an email that you think you should have received.
+
+## See also
+
+The
+[sieve-email-filters-written-by-ai](https://github.com/openjck/sieve-email-filters-written-by-ai)
+contains similar filters, except written by AI. Some, like the AI-authored
+"Feedback requests" filter, may be superior to the corresponding filters in this
+project.
