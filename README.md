@@ -35,6 +35,6 @@ finding an email that you think you should have received.
 
 The
 [sieve-email-filters-written-by-ai](https://github.com/openjck/sieve-email-filters-written-by-ai)
-contains similar filters, except written by AI. Some, like the AI-authored
-"Feedback requests" filter, may be superior to the corresponding filters in this
-project.
+project contains similar filters, except written by AI. Some, like the
+AI-authored "Feedback requests" filter, may be superior to the corresponding
+filters in this project.
